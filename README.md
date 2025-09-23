@@ -10,7 +10,7 @@
 - 📱 Experienced in **Kotlin Multiplatform** – writing shared code for Android & iOS  
 - 🌱 Exploring **Scalable Backend Architectures** with **Prisma & PostgreSQL**  
 - 💬 Love to talk about **Web Architecture, API Design, and App Scalability**  
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/your-profile) • [Portfolio Website](https://yourwebsite.com)
+- 📫 Reach me: [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/subhrangshu-das-465206342))
 
 ---
 
