@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🔭 Currently building **MIMI Family Tour** – a full-fledged travel booking platform  
+- 🔭 Currently built **MIMI Family Tour** – a full-fledged travel booking platform  
 - 📱 Experienced in **Kotlin Multiplatform** – writing shared code for Android & iOS  
 - 🌱 Exploring **Scalable Backend Architectures** with **Prisma & PostgreSQL**  
 - 💬 Love to talk about **Web Architecture, API Design, and App Scalability**  
