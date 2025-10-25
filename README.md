@@ -34,7 +34,7 @@
 
 | Project | Description | Tech Stack | Links |
 |--------|-------------|-----------|-------|
-| **MIMI Family Tour** | Full-stack travel booking platform with admin dashboard | Next.js, Node.js, MongoDB, Tailwind | [Repo]([https://github.com/subhrangshudas05/mimi-family-tour](https://github.com/subhrangshudas05/MMI-FAMILY-TOUR)) |
+| **MIMI Family Tour** | Full-stack travel booking platform with admin dashboard | Next.js, Node.js, MongoDB, Tailwind | [Repo]([https://github.com/subhrangshudas05/MMI-FAMILY-TOUR](https://github.com/subhrangshudas05/MMI-FAMILY-TOUR)) |
 | **Cross-Platform Expense Tracker** | Android + iOS app using shared Kotlin code | Kotlin Multiplatform, Jetpack Compose, SwiftUI | [Repo](https://github.com/subhrangshudas05/expense-tracker) |
 | **Realtime Chat App** | WebSocket-based chat app with auth | React, Express, Socket.IO | [Repo](https://github.com/subhrangshudas05/chat-app) |
 
